@@ -1,0 +1,15 @@
+[submodule "Infra"]
+	path = Infra
+	url = git@github.com:h-akira/WambdaInitProject_Infra.git
+[submodule "CSR001_Backend"]
+	path = CSR001_Backend
+	url = git@github.com:h-akira/WambdaInitProject_CSR001_Backend.git
+[submodule "CSR001_Frontend"]
+	path = CSR001_Frontend
+	url = git@github.com:h-akira/WambdaInitProject_CSR001_Frontend.git
+[submodule "SSR001_App"]
+	path = SSR001_App
+	url = git@github.com:h-akira/WambdaInitProject_SSR001_App.git
+[submodule "CICD"]
+	path = CICD
+	url = git@github.com:h-akira/WambdaInitProject_CICD.git
